@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CBCCylinderBudgetChartView.h"
 
-@interface CBCViewController : UIViewController
+@interface CBCViewController : UIViewController<CBCCylinderBudgetChartViewDataSource, CBCCylinderBudgetChartViewDelegate>
 
 @end
