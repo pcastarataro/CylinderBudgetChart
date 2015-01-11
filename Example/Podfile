@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'CylinderBudgetChart', :exclusive => true do
+  pod "CylinderBudgetChart", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "CylinderBudgetChart", :path => "../"
+
+  
+end
