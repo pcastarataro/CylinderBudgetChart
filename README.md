@@ -1,15 +1,13 @@
 # CylinderBudgetChart
 
-[![CI Status](http://img.shields.io/travis/pablo castarataro/CylinderBudgetChart.svg?style=flat)](https://travis-ci.org/pablo castarataro/CylinderBudgetChart)
-[![Version](https://img.shields.io/cocoapods/v/CylinderBudgetChart.svg?style=flat)](http://cocoadocs.org/docsets/CylinderBudgetChart)
-[![License](https://img.shields.io/cocoapods/l/CylinderBudgetChart.svg?style=flat)](http://cocoadocs.org/docsets/CylinderBudgetChart)
-[![Platform](https://img.shields.io/cocoapods/p/CylinderBudgetChart.svg?style=flat)](http://cocoadocs.org/docsets/CylinderBudgetChart)
+## Screenshots
+
+![alt tag](https://raw.github.com/pcastarataro/CylinderBudgetChart/master/Example/CylinderBudgetChart/screen1.png)
+![alt tag](https://raw.github.com/pcastarataro/CylinderBudgetChart/master/Example/CylinderBudgetChart/screen2.png)
 
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
@@ -18,9 +16,6 @@ it, simply add the following line to your Podfile:
 
     pod "CylinderBudgetChart"
 
-## Author
-
-pablo castarataro, pablocastarataro@gmail.com
 
 ## License
 
